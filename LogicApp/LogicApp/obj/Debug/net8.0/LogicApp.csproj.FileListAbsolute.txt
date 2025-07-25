@@ -1,0 +1,15 @@
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.exe
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.deps.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.runtimeconfig.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\bin\Debug\net8.0\LogicApp.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.AssemblyInfoInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.AssemblyInfo.cs
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.csproj.CoreCompileInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.sourcelink.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\refint\LogicApp.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\LogicApp.genruntimeconfig.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\LogicApp\LogicApp\obj\Debug\net8.0\ref\LogicApp.dll

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MohithChandrashakher\\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\\Desktop\\WorkWithMohi\\UdemyCSharp\\LogicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B2AD9F-0297-49AC-BB1A-4B46926659B1}|LogicApp\\LogicApp.csproj|c:\\users\\mohithchandrashakher\\onedrive - kalpita technologies private limited\\desktop\\workwithmohi\\udemycsharp\\logicapp\\logicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B2AD9F-0297-49AC-BB1A-4B46926659B1}|LogicApp\\LogicApp.csproj|solutionrelative:logicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MohithChandrashakher\\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\\Desktop\\WorkWithMohi\\UdemyCSharp\\LogicApp\\LogicApp\\Program.cs",
+              "RelativeDocumentMoniker": "LogicApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MohithChandrashakher\\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\\Desktop\\WorkWithMohi\\UdemyCSharp\\LogicApp\\LogicApp\\Program.cs",
+              "RelativeToolTip": "LogicApp\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:01:33.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
