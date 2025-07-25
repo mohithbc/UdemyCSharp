@@ -1,0 +1,15 @@
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\bin\Debug\net8.0\ClubbingOrNoClubbing.exe
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\bin\Debug\net8.0\ClubbingOrNoClubbing.deps.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\bin\Debug\net8.0\ClubbingOrNoClubbing.runtimeconfig.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\bin\Debug\net8.0\ClubbingOrNoClubbing.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\bin\Debug\net8.0\ClubbingOrNoClubbing.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.AssemblyInfoInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.AssemblyInfo.cs
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.csproj.CoreCompileInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.sourcelink.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\refint\ClubbingOrNoClubbing.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ClubbingOrNoClubbing.genruntimeconfig.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\ClubbingOrNoClubbing\ClubbingOrNoClubbing\obj\Debug\net8.0\ref\ClubbingOrNoClubbing.dll
