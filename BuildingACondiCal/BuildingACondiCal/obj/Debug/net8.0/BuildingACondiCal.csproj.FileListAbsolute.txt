@@ -1,0 +1,15 @@
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.AssemblyInfoInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.AssemblyInfo.cs
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.csproj.CoreCompileInputs.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.sourcelink.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\bin\Debug\net8.0\BuildingACondiCal.exe
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\bin\Debug\net8.0\BuildingACondiCal.deps.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\bin\Debug\net8.0\BuildingACondiCal.runtimeconfig.json
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\bin\Debug\net8.0\BuildingACondiCal.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\bin\Debug\net8.0\BuildingACondiCal.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\refint\BuildingACondiCal.dll
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.pdb
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\BuildingACondiCal.genruntimeconfig.cache
+C:\Users\MohithChandrashakher\OneDrive - KALPITA TECHNOLOGIES PRIVATE LIMITED\Desktop\WorkWithMohi\UdemyCSharp\BuildingACondiCal\BuildingACondiCal\obj\Debug\net8.0\ref\BuildingACondiCal.dll
