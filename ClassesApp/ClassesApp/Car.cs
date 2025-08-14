@@ -15,18 +15,61 @@ namespace ClassesApp
         // member variable of the car class
 
         // private hides the variable from other classes means u cannot access it in program.cs as bmw._model
+        // Backing field of the Model Property
         private string _model = "";
         private string _brand = "";
+        private bool _isLuxury;
+
+        // property
+       // public string Model { get; set; }
 
         // Constructor - is very similar to a method but its diffrent, like it has the exact same name
         // as class itself and it doesnot have a return type constructor is called or executed whenever a new object of car is created.
 
         // Custom Constructor
-        public Car(string model, string brand)
+        public Car(string model, string brand, bool isLuxury)
         {
-            _model = model;
-            _brand = brand;
-            Console.WriteLine($"A car of brand {_brand} & model {_model} has been created");
+            Model = model;
+            Brand = brand;
+            IsLuxury = isLuxury;
+            Console.WriteLine($"A car of brand {Brand} & model {Model} has been created");
+        }
+
+        // Property( lambda expressions )
+        public string Model { get => _model; set => _model = value; }
+        public string Brand
+        {
+            get
+            {
+                if(_isLuxury)
+                {
+                    return _brand + " - Luxury Edition";
+                }
+                else
+                {
+                    return _brand;
+                }
+            }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                {
+                    Console.WriteLine("You entered nothing");
+                    _brand = "DefaultValue";
+                }
+                else
+                {
+                    _brand = value;
+                }
+            }
+        }
+
+        public bool IsLuxury { get => _isLuxury; set => _isLuxury = value; }
+
+
+        public void Drive()
+        {
+            Console.WriteLine("Im driving");
         }
     }
 }
