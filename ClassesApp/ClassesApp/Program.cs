@@ -36,6 +36,10 @@
             myCustomer.Name = Console.ReadLine();
             Console.WriteLine("Details about customer: " + myCustomer.Name);
 
+            Customer customer1 = new Customer("John Doe");
+            Console.WriteLine("COntact number of Customer 1 is : " + customer1.ContactNumber);
+            
+
             myCustomer.SetDetails("Mohith", "Tiptur", "11231214124");
 
             /*NOTE: functions are like methods the do the same thing the only diffrence is that
