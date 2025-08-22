@@ -10,6 +10,10 @@ namespace ClassesApp
      accessed only within the same class*/
     internal class Car
     {
+
+        public static int NumberOfCars = 0;
+
+
         /*Member variable - its a field inside of a class, so its a varibale inside of a class and outside of the methods*/
         // if you are using a filed inside of the class that you are creating then it is a member variable of that class, model now is the 
         // member variable of the car class
@@ -29,10 +33,16 @@ namespace ClassesApp
         // Custom Constructor
         public Car(string model, string brand, bool isLuxury)
         {
+            NumberOfCars++;
             Model = model;
             Brand = brand;
             IsLuxury = isLuxury;
             Console.WriteLine($"A car of brand {Brand} & model {Model} has been created");
+        }
+
+        public Car()
+        {
+            NumberOfCars++;
         }
 
         // Property( lambda expressions )

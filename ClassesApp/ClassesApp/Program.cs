@@ -70,6 +70,8 @@
             r1.Height = 20;
             Console.WriteLine("Area is " + r1.Area);
 
+            // static field
+            Console.WriteLine("Total number of cars created: " + Car.NumberOfCars);
             Console.ReadKey();
             
             /*In c# static keyword is used to declare members of a class that belong to the class itself
@@ -77,7 +79,8 @@
             Customer.DoSomeCustomerStuff();
             // The doSomeCustomerStuff method is static and cannot be called using an object
             // myCustomer.DoSomeCustomerStuff();
-
+         
+            
         }
     }
 }
