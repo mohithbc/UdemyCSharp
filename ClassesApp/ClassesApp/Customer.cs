@@ -36,5 +36,11 @@ namespace ClassesApp
             Address = address;
             ContactNumber = contactNumber;
         }
+
+        // static says that this method does not need an object to be called
+        public static void DoSomeCustomerStuff()
+        {
+            Console.WriteLine("Doing some customer stuff");
+        }
     }
 }

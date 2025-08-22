@@ -51,7 +51,32 @@
             Car myTata = new Car("Tiago", "Tata", false);
             myTata.Drive();
 
+
+            static void main(string[] args)
+            {
+                Console.WriteLine(AddNum(15,25));
+                // Named Parameters
+                Console.WriteLine(AddNum(firstNum: 23, 25));
+            }
+
+            static int AddNum(int firstNum, int secondNUm)
+            {
+                return firstNum + secondNUm;
+            }
+
+
+            Rectangle r1 = new Rectangle();
+            r1.Width = 10;
+            r1.Height = 20;
+            Console.WriteLine("Area is " + r1.Area);
+
             Console.ReadKey();
+            
+            /*In c# static keyword is used to declare members of a class that belong to the class itself
+             rather than to any specific instance of the class*/
+            Customer.DoSomeCustomerStuff();
+            // The doSomeCustomerStuff method is static and cannot be called using an object
+            // myCustomer.DoSomeCustomerStuff();
 
         }
     }
