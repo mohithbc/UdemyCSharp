@@ -1,5 +1,9 @@
 ﻿namespace ClassesApp
 {
+    // Access Modifier-
+    /*Access modifiers are crucial for managing how classes and class members are accessed in software
+     projects. By controlling access, you can safeguard the internal state of objects, reduce
+    dependencies between componets and enhance maintainability*/
     internal class Program
     {
         static void Main(string[] args)
@@ -39,6 +43,13 @@
             Customer customer1 = new Customer("John Doe");
             Console.WriteLine("COntact number of Customer 1 is : " + customer1.ContactNumber);
             
+            Customer cus1 = new Customer("Jane Doe", "123 Main St");
+            Customer cus2 = new Customer("Alice Smith", "456 Oak Ave", "9876543210");
+            Customer cus3 = new Customer();
+
+            cus1.GetDetails();
+            cus2.GetDetails();
+            cus3.GetDetails();  
 
             myCustomer.SetDetails("Mohith", "Tiptur", "11231214124");
 
