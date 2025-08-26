@@ -1,4 +1,6 @@
-﻿namespace ClassesApp
+﻿using System.Threading.Channels;
+
+namespace ClassesApp
 {
     // Access Modifier-
     /*Access modifiers are crucial for managing how classes and class members are accessed in software
@@ -49,7 +51,8 @@
 
             cus1.GetDetails();
             cus2.GetDetails();
-            cus3.GetDetails();  
+            cus3.GetDetails();
+            cus3.Password = "12345";
 
             myCustomer.SetDetails("Mohith", "Tiptur", "11231214124");
 
@@ -76,10 +79,18 @@
             }
 
 
-            Rectangle r1 = new Rectangle();
-            r1.Width = 10;
-            r1.Height = 20;
-            Console.WriteLine("Area is " + r1.Area);
+            //Rectangle r1 = new Rectangle();
+            //r1.Width = 10;
+            //r1.Height = 20;
+            //Console.WriteLine("Area is " + r1.Area);
+
+            Console.WriteLine("Enter the color of rect 1");
+            string oneColor = Console.ReadLine();
+            Rectangle rectangle1 = new Rectangle(oneColor);
+            Rectangle rectangle2 = new Rectangle("Blue");
+            
+            rectangle1.DisplayDetails();
+            rectangle2.DisplayDetails();
 
             // static field
             Console.WriteLine("Total number of cars created: " + Car.NumberOfCars);

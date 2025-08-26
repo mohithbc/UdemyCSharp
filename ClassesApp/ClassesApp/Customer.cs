@@ -10,7 +10,20 @@ namespace ClassesApp
     {
         // Static field to hold the next ID available
         private static int nextId = 0;
+        // Read only instance field initialized from constructor
         private readonly int _id;
+
+        // Backing field for write only property
+        private string _password;
+
+        // write only property
+        public string Password
+        {
+            set
+            {
+                _password = value;
+            }
+        }
 
         //Read only property to get the ID
         public int Id
@@ -55,7 +68,7 @@ namespace ClassesApp
 
         public void GetDetails()
         {
-            Console.WriteLine($"Details about the customer: NAme is {Name} and ID is {_id}");
+            Console.WriteLine($"Details about the customer: NAme is {Name} and ID is {Id}");
         }
 
 
