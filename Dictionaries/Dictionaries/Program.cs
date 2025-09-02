@@ -11,6 +11,7 @@
             employees.Add(2, "Jane");
             employees.Add(3, "Jack");
             employees.Add(4, "Jill");
+            // employees.Add(4, "Jill"); // Duplicate key, will throw an exception
 
             // Accesing items in a dictionary
             string name = employees[2];
@@ -23,6 +24,12 @@
             foreach (KeyValuePair<int, string> kvp in employees)
             {
                 Console.WriteLine($"ID: {kvp.Key}, Name: {kvp.Value}");
+            }
+
+            bool added = employees.TryAdd(2, "Jim"); // Will return false, key already exists
+            if (!added)
+            {
+                Console.WriteLine("Key 2 already exists.");
             }
 
         }
