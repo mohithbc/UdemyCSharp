@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionariesTwo", "DictionariesTwo\DictionariesTwo.csproj", "{30238538-7AA8-404E-A0FA-4F5479CD588E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30238538-7AA8-404E-A0FA-4F5479CD588E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30238538-7AA8-404E-A0FA-4F5479CD588E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30238538-7AA8-404E-A0FA-4F5479CD588E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30238538-7AA8-404E-A0FA-4F5479CD588E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D9F824B-B586-4BB6-BE18-C24948404A7E}
+	EndGlobalSection
+EndGlobal
