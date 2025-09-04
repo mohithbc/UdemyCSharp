@@ -1,11 +1,12 @@
-﻿namespace TryCatchExpections
+﻿using System.Diagnostics;
+namespace TryCatchExpections
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int result = 0;
-
+            Debug.WriteLine("Debug: Application started");
             try
             {
                 Console.WriteLine("Please enter a number");
@@ -27,7 +28,12 @@
             catch (Exception ex)
             {
                 Console.WriteLine("Error : " + ex.Message);
-            }finally
+                Debug.WriteLine("Debug: " + ex.Message);
+                Debug.WriteLine("Debug: " + ex.StackTrace);
+                // This next line is only executed in debug mode
+                Debug.WriteLine(ex.ToString());
+            }
+            finally
             {
                 // Code to cleanup or finalize ideal for cleaning up resources,
                 // like closing file streams or database connections
