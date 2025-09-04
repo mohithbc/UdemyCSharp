@@ -15,16 +15,22 @@ namespace TryCatchExpections
                 int num2 = Convert.ToInt32(Console.ReadLine());
                 result = num2 / num1;
             }
-            //catch (FormatException ex)
-            //{
-            //    Console.WriteLine("You need to enter a valid number");
-            //    Console.WriteLine(ex.Message);
-            //}
-            //catch (DivideByZeroException ex)
-            //{
-            //    Console.WriteLine("Enter a number higher than 0");
-            //    Console.WriteLine(ex.Message);
-            //}
+            catch (FormatException ex)
+            {
+                Console.WriteLine("You need to enter a valid number");
+                Console.WriteLine(ex.Message);
+            }
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Enter a number higher than 0");
+                Console.WriteLine(ex.Message);
+            }
+            catch (OverflowException ex)
+            {
+                Console.WriteLine("The number you entered is too big or too small");
+                Console.WriteLine(ex.Message);
+            }
+            // This will catch any other exception not previously caught Default case
             catch (Exception ex)
             {
                 Console.WriteLine("Error : " + ex.Message);
