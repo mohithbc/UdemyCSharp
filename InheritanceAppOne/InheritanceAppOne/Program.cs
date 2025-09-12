@@ -7,6 +7,9 @@
             // Employee constructor calls Person constructor first
             // then Employee constructor
             Employee joe = new Employee("Joe", 30, "Software Developer", 101);
+
+            Manager carl = new Manager("Carl", 40, "Project Manager", 102, 10);
+            carl.DisplayManagerInfo();
             joe.DisplayEmployeeInfo();
         }
     }
@@ -40,6 +43,21 @@
         public void DisplayEmployeeInfo()// Method to display employee info
         {
             Console.WriteLine($"Name: {Name}, Age: {Age}, Job Title: {JobTitle}, Employee ID: {EmployeeID}");
+        }
+    }
+    // Constructor inheritance with multiple derived classes
+    public class Manager : Employee
+    {
+        public int TeamSize { get; set; }
+        public Manager(string name, int age, string jobTitle, int employeeID, int teamSize)
+            : base(name, age, jobTitle, employeeID)
+        {
+            TeamSize = teamSize;
+        }
+        public void DisplayManagerInfo()
+        {
+            DisplayEmployeeInfo();
+            Console.WriteLine($"Name: {Name}, Age: {Age}, Job Title: {JobTitle}, Employee ID: {EmployeeID}, TeamSize: {TeamSize}");
         }
     }
 }
