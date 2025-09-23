@@ -52,7 +52,6 @@
             builder.SetHammer(hammer);
             builder.SetSaw(saw); 
             builder.BuildHouse();
-            Console.WriteLine("Hello, World!");
         }
     }
 }
