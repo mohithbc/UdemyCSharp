@@ -1,32 +1,45 @@
 ﻿namespace DependencyInjectionApp
 {
-    public interface IPrintable
+    public class Hammer
     {
-        void Print();
-    }
-    public interface IScannable
-    {
-        void Scan();
-    }
-    public class  MultiFunctionPrinter: IPrintable, IScannable
-    {
-        public void Print()
+        public void Use()
         {
-                       Console.WriteLine("Printing document...");
-        }
-        public void Scan()
-        {
-                       Console.WriteLine("Scanning document...");
+            Console.WriteLine("Hammering nails!");
         }
     }
-    internal class Program
+    public class Saw
     {
-        static void Main(string[] args)
+        public void Use()
         {
-            MultiFunctionPrinter mfp = new MultiFunctionPrinter();
-            mfp.Print();
-            mfp.Scan();
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Cutting wood!");
+        }
+    }
+    public class Builder
+    {
+        private Hammer _hammer;
+        private Saw _saw;
+        // Saw and Hammer are the dependencies of Builder
+        // Constructor dependency Injection (DI)
+        public Builder(Hammer hammer, Saw saw)
+        {
+            _hammer =  hammer; // Builder is responsible for creating its dependencies
+            _saw = saw;
+        }
+        public void BuildHouse()
+        {
+            _hammer.Use();
+            _saw.Use();
+            Console.WriteLine("Building a house!");
+        }
+        internal class Program
+        {
+            static void Main(string[] args)
+            {
+                Hammer hammer = new Hammer();
+                Saw saw = new Saw();
+                Builder builder = new Builder(hammer, saw);
+                builder.BuildHouse();
+            }
         }
     }
 }
